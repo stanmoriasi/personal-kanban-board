@@ -16,7 +16,8 @@ if (process.env.DB_URL) {
     dialectOptions: {
       decimalNumbers: true,
     },
-  });
+    });
+  }
 
 const User = UserFactory(sequelize);
 const Ticket = TicketFactory(sequelize);
