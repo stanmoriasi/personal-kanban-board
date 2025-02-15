@@ -1,5 +1,3 @@
-# personal-kanban-board
-
 # Personal Kanban Board
   ![GitHub license](https://img.shields.io/badge/License-AGPL-blue.svg)
 
